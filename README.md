@@ -18,7 +18,7 @@ Easy Shipping Rules was made by [amazing developers](https://github.com/matheusg
 
 [![Matheus Gontijo](https://avatars1.githubusercontent.com/u/3246183?s=100)](https://github.com/matheusgontijo) |
 --- | --- | --- | --- | --- | --- | ---
-[Matheus Gontijo](https://github.com/matheusgontijo)<br>Crimson Agility, LLC. |
+[Matheus Gontijo](https://github.com/matheusgontijo)<br>Curitiba, Brazil |
 
 ## Compatibility
 
