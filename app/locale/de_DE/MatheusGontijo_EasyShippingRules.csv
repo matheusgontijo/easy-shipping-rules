@@ -6,24 +6,27 @@
 "Add Rule","Regel hinzufügen"
 "All Shipping Methods","Alle Liefermethoden"
 "An error occurred while saving the carrier data. Please review the log and try again.","Beim Speichern der Daten ist ein Fehler aufgetretten. Bitte werten Sie die Log-Dateien aus und versuchen es erneut."
+"An error occurred while updating the carrier(s) status.",""
 "Apply the shipping rule only if the following conditions are met (leave blank for all products)","Regel nur anwenden, wenn all folgenden Bedingungen erfüllt sind. (Lassen Sie das Feld leer für alle Produkte)"
-between,zwischen
-Carrier,Lieferant
+"Are you sure?",""
+"between","zwischen"
+"Carrier","Lieferant"
 "Carrier Information","Daten des Lieferanten"
 "Carrier Name","Name des Lieferanten"
-Carriers,Lieferanten
+"Carriers","Lieferanten"
 "Carriers and Shipping Methods","Lieferanten und Liefermethoden"
 "Cart Attribute","Attribut des Einkaufswagens"
 "Cart Item Attribute","Attribut eines Arikels im Einkaufswagen"
-Conditions,Bedingung
+"Change status",""
+"Conditions","Bedingung"
 "Conditions combination","Kombination der Bedingungen"
 "Created At","Erstellt am"
 "Custom Method","Benutzerdefinierte Methode"
 "Custom Method Information","Daten der benutzerdefinierten Methode"
 "Custom Methods","Benutzerdefinierte Methoden"
 "Customer attribute","Benutzerdefiniertes Attribut"
-Description,Beschreibung
-Discount,Rabatt
+"Description","Beschreibung"
+"Discount","Rabatt"
 "Easy Shipping Rules","Easy Shipping Rules"
 "Edit Carrier","Lieferant bearbeiten"
 "Edit Carrier '%s'","Bearbeiten des Lieferanten '%s'"
@@ -36,10 +39,12 @@ Discount,Rabatt
 "Existing Methods","Bestehende Methoden"
 "Fixed (all cart)","Fix (alle Einkaufswägen)"
 "Fixed (per item qty)","Fix (pro Artikelanzahl)"
-General,Allgemein
+"General","Allgemein"
 "General Information","Allgemeine Information"
-Hide,Versteckt
+"Hide","Versteckt"
 "ID","ID"
+"is not valid",""
+"is valid",""
 "Leave blank to keep current Carrier Name","Lassen Sie das Feld leer, um aktuelle Bezeichnung des Lieferanten beizubehalten"
 "Leave blank to keep current Shipping Method Name","Lassen Sie das Feld leer, um aktuelle Bezeichnung der Liefermethode beizubehalten"
 "Method Name","Bezeichnung der Liefermethode"
@@ -49,21 +54,24 @@ Hide,Versteckt
 "New Existing Method","Neue bestehende Methode"
 "New Shipping Rule","Neue Versandregel"
 "not between","nicht zwischen"
-Overwrite,Überschreiben
+"Overwrite","Überschreiben"
+"Percentage (based on rate)",""
 "Percentage (based on subtotal)","Prozentual (basierend auf der Zwischensumme)"
+"Please select carrier(s).",""
 "Position","Position"
 "Price / Percentage","Preis / Prozente"
 "Price Action","Price Action"
 "Product Attribute","Produkt Attribute"
 "Product attribute combination","Kombination der Produkt Attribute"
+"Programmatic Method",""
 "Rule Name","Bezeichnung der Regel"
-Rules,Regeln
+"Rules","Regeln"
 "Set this value for replacing rules' price / percentage","Geben Sie einen Wert ein, um Preis/Prozente der Regel zu ersetzen"
 "Shipping Method Name","Bezeichnung der Liefermethode"
-"Shipping Methods",Liefermethoden
-"Shipping Rule",Regeln
+"Shipping Methods","Liefermethoden"
+"Shipping Rule","Regeln"
 "Shipping Rule Information","Daten der Regel"
-Surcharge,Aufschlag
+"Surcharge","Aufschlag"
 "The carrier has been deleted.","Der Lieferant wurde gelöscht."
 "The carrier has been saved.","Der Lieferant wurde gespeichert."
 "The custom method has been deleted.","Die benutzerdefinierte Methode wurde gelöscht."
@@ -87,4 +95,3 @@ Surcharge,Aufschlag
 "Wrong custom method specified.","Falsche benutzerdefinierte Methode angegeben."
 "Wrong existing method specified.","Falsche bestehende Methode angegeben."
 "Wrong shipping rule specified.","Falsche Regel angegeben."
-
