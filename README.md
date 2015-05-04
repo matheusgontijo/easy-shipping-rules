@@ -24,7 +24,7 @@ Easy Shipping Rules was made by [amazing developers](https://github.com/matheusg
 
 [![Matheus Gontijo](https://avatars1.githubusercontent.com/u/3246183?s=100)](https://github.com/matheusgontijo) | [![Vadim Justus](https://avatars1.githubusercontent.com/u/4609608?s=100)](https://github.com/vadimjustus) | [![Shiv Singh](https://avatars1.githubusercontent.com/u/10324098?s=100)](https://github.com/shivkumarsingh7)
 --- | --- | --- | --- | --- | --- | ---
-[Matheus Gontijo](https://github.com/matheusgontijo)<br>Curitiba, Brazil | [Vadim Justus](https://github.com/matheusgontijo)<br>Rosenheim, Germany | [Shiv Singh](https://github.com/shivkumarsingh7)<br>Ahmedabad, India
+[Matheus Gontijo](https://github.com/matheusgontijo)<br>Curitiba, Brazil | [Vadim Justus](https://github.com/vadimjustus)<br>Rosenheim, Germany | [Shiv Singh](https://github.com/shivkumarsingh7)<br>Ahmedabad, India
 Portuguese | German | Hindi
 
 
