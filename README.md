@@ -20,6 +20,12 @@ Easy Shipping Rules was made by [amazing developers](https://github.com/matheusg
 --- | --- | --- | --- | --- | --- | ---
 [Matheus Gontijo](https://github.com/matheusgontijo)<br>Curitiba, Brazil |
 
+#### Translators
+
+[![Vadim Justus](https://avatars1.githubusercontent.com/u/4609608?s=100)](https://github.com/vadimjustus) |
+--- | --- | --- | --- | --- | --- | ---
+[Vadim Justus](https://github.com/matheusgontijo)<br>Rosenheim, Germany |
+
 ## Compatibility
 
 Versions: 1.7+
