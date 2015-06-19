@@ -1,0 +1,10 @@
+app/code/community/MatheusGontijo/EasyShippingRules app/code/community/MatheusGontijo/EasyShippingRules
+app/design/adminhtml/default/default/layout/easyshippingrules.xml app/design/adminhtml/default/default/layout/easyshippingrules.xml
+app/etc/modules/MatheusGontijo_EasyShippingRules.xml app/etc/modules/MatheusGontijo_EasyShippingRules.xml
+app/locale/de_DE/MatheusGontijo_EasyShippingRules.csv app/locale/de_DE/MatheusGontijo_EasyShippingRules.csv
+app/locale/en_US/MatheusGontijo_EasyShippingRules.csv app/locale/en_US/MatheusGontijo_EasyShippingRules.csv
+app/locale/es_ES/MatheusGontijo_EasyShippingRules.csv app/locale/es_ES/MatheusGontijo_EasyShippingRules.csv
+app/locale/fr_FR/MatheusGontijo_EasyShippingRules.csv app/locale/fr_FR/MatheusGontijo_EasyShippingRules.csv
+app/locale/he_IL/MatheusGontijo_EasyShippingRules.csv app/locale/he_IL/MatheusGontijo_EasyShippingRules.csv
+app/locale/hi_IN/MatheusGontijo_EasyShippingRules.csv app/locale/hi_IN/MatheusGontijo_EasyShippingRules.csv
+app/locale/pt_BR/MatheusGontijo_EasyShippingRules.csv app/locale/pt_BR/MatheusGontijo_EasyShippingRules.csv
