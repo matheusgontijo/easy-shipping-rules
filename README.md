@@ -29,7 +29,7 @@ Portuguese | German | Hebrew | Spanish |
 
 
 [![Sören Ohnmeiss](https://avatars1.githubusercontent.com/u/3420316?s=100)](https://github.com/sowebdev) | [![Shiv Singh](https://avatars1.githubusercontent.com/u/10324098?s=100)](https://github.com/shivkumarsingh7) |
-| --- | --- | --- | --- |
+| --- | --- |
 | [Sören Ohnmeiss](https://github.com/sowebdev)<br>Strasbourg, France | [Shiv Kumar Singh](https://github.com/shivkumarsingh7)<br>Ahmedabad, India |
 | French | Hindi |
 
